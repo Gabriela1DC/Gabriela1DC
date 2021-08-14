@@ -1,4 +1,5 @@
-## Oiii! Eu sou a Gabriela
+## Oi, Eu sou a Gabriela 😀🖐🏽
+## **Desenvolvedora Front-End e Estudante de Ciência de Dados**
  <div>
   <a href="https://github.com/Gabriela1DC">
 </div>
@@ -8,16 +9,25 @@
   <img align="center" alt="React Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling='center' alt='Hi' src='https://gph.is/g/EB17Db4'>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Avatar Chibi" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
  
-<div>  
-  <a href = "mailto:gabrieladavidcost.gd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="display: inline_block'>  
+
+  <a href = "mailto:gabrieladavidcost.gd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&labelColor=DF0174&logo=gmail&logoColor=white" target="_blank"></a>
+</a>
   <a href="www.linkedin.com/in/gabriela-david-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img align="center" alt="MyOctCat" src='my-octocat.png'>
+ <hr>
+ <br>
+
+ <img align="right" height="450" width="450" alt="MyOctCat" src='my-octocat.png'>
  
-</div>
+ 
+</div>                                                        
+ 
+ <div>
+  <img aling='left' alt='Hi' height="300" width="300" src="https://media.giphy.com/media/323RRG85uEcRyOcIQp/giphy.gif">
+ </div>
