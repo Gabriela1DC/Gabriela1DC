@@ -23,9 +23,8 @@
  <hr>
  <br>
 
-
- <img align="center" height="450" width="450" alt="MyOctCat" src='my-octocat.png'>
  <img aling='right' height="300" width="300" src='download20210806191512.png'>
  <img aling='left' alt='Hi' height="300" width="300" src="https://media.giphy.com/media/323RRG85uEcRyOcIQp/giphy.gif">
+  <img align="center" height="450" width="450" alt="MyOctCat" src='my-octocat.png'>
  
 </div>                                                        
