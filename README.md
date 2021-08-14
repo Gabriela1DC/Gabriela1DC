@@ -10,9 +10,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--img align="right" alt="Avatar Chibi" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"-->
   
-  <img aling="right" height="90" width="90" src='download20210806191512.png'>
+  <img align="right" alt="Avatar Chibi" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  
+  
 </div>
   
   ##
@@ -25,8 +26,9 @@
  <hr>
  <br>
 
-
- <img aling="left" alt='Hi' height="300" width="300" src="https://media.giphy.com/media/323RRG85uEcRyOcIQp/giphy.gif">
-  <img align="center" height="450" width="450" alt="MyOctCat" src='my-octocat.png'>
+ 
+ <img align="center" height="450" width="450" alt="MyOctCat" src='my-octocat.png'>
+ <img aling="left" alt='Hi' height="300" width="300" src="https://media.giphy.com/media/323RRG85uEcRyOcIQp/giphy.gif"> 
+ <img aling="right" height="300" width="300" src='download20210806191512.png'>
  
 </div>                                                        
