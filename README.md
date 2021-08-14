@@ -16,7 +16,7 @@
  
 <div>  
   <a href = "mailto:gabrieladavidcost.gd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img align="center" alt="MyOctCat" src='Meu_Readme\my-octocat.png'>
+  <a href="www.linkedin.com/in/gabriela-david-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <img align="center" alt="MyOctCat" src='my-octocat.png'>
  
 </div>
