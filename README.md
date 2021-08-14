@@ -31,4 +31,4 @@
  <img aling="left" alt='Hi' height="300" width="300" src="https://media.giphy.com/media/323RRG85uEcRyOcIQp/giphy.gif"> 
  <img aling="right" height="300" width="300" src='download20210806191512.png'> 
 </div>
-                                            😎
+                                  
